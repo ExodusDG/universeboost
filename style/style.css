@@ -1686,6 +1686,8 @@ li {
     }
     .footer {
         top: 0vw;
+        padding-top: 10vw;
+        position: relative;
     }
     .logotype-footer {
         width: 15vw;
@@ -1981,6 +1983,8 @@ li {
     }
     .footer {
         top: 0vw;
+        padding-top: 10vw;
+        position: relative;
     }
     .logotype-footer {
         width: 15vw;
@@ -2143,17 +2147,17 @@ li {
         padding-bottom: 6vw;
     }
     .boost-price {
-        left: 31vw;
+        left: 33vw;
         width: 13vw;
         height: 7vw;
     }
     .boost-price-mm {
-        left: 31vw;
+        left: 33vw;
         width: 13vw;
         height: 7vw;
     }
     .boost-price-blue {
-        left: 31vw;
+        left: 33vw;
         width: 13vw;
         height: 7vw;
     }
@@ -2271,6 +2275,8 @@ li {
     }
     .footer {
         top: 0vw;
+        padding-top: 10vw;
+        position: relative;
     }
     .logotype-footer {
         width: 15vw;
